@@ -1,2 +1,2 @@
 # javaWorkSpace
-the learning code of java
+the code of learning java
